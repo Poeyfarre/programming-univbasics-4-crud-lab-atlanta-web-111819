@@ -7,8 +7,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  music = ["john", "paul", "george", "ringo"]
-  music.push("mick")
+  array = ["john", "paul", "george", "ringo"]
+  array.push("mick")
 end
 
 def add_element_to_start_of_array(array, element)
